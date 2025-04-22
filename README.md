@@ -15,6 +15,8 @@ Detect important industry or job-specific keywords that are missing from the res
 ### 📊 Percentage Score
 Get a quantified score indicating how well your resume aligns with a target job description or role.
 
+
+
 ⚙️ Getting Started
 Clone the Repository
 bash
@@ -26,10 +28,8 @@ Install Dependencies
 bash
 Copy
 Edit
-# Node.js
-npm install
 
-# OR Python
+### Python
 pip install -r requirements.txt
 Environment Variables
 Create a .env file in the root directory:
